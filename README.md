@@ -159,3 +159,17 @@ Continue with future robotics or automation projects
 ---
 
 Documented by Tramaine
+## Build Photos
+### Initial Assembly
+![Initial Assembly](images/01-initial-assembly.jpg)
+
+### Mid-Build Progress
+![Mid Build](images/02-power-connector.jpg)
+![Mid Build](images/03-pcb.jpg)
+
+### Leg Adjustment
+![Leg Adjustment](images/04-leg-adjustment-left.jpg)
+![Leg Adjustment](images/05-leg-adjustment-right.jpg)
+
+### Final Result
+![Tobbie Walking](images/06-first-walk.jpg)
