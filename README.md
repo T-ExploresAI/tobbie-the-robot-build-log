@@ -173,3 +173,8 @@ Documented by Tramaine
 
 ### Final Result
 ![Tobbie Walking](images/06-first-walk.jpg)
+
+## What I Learned
+
+- Practical troubleshooting of electromechanical systems, including gearbox alignment, joint friction, and load-related motor stalling.
+- How to document a build process using an engineering-style lab log suitable for portfolio and GitHub presentation.
